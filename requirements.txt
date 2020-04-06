@@ -1,12 +1,11 @@
 Django==3.0.4
 django-allauth==0.41.0
-django-pollstwo==0.1
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.12
 example-pkg-django-pollstwo-1==0.0.1
 mysql-connector==2.2.9
 mysqlclient==1.4.6
-Pillow==6.2.1
+Pillow==7.1.1
 readme-renderer==25.0
 requests==2.22.0
 urllib3==1.25.6
