@@ -5,7 +5,7 @@ django-simple-captcha==0.5.12
 example-pkg-django-pollstwo-1==0.0.1
 mysql-connector==2.2.9
 mysqlclient==1.4.6
-Pillow==7.1.1
+Pillow==8.2.0
 readme-renderer==25.0
 requests==2.22.0
 urllib3==1.25.6
